@@ -1,0 +1,62 @@
+.green{
+	background-color: #7AA669;
+	width: 760px;
+	height: 381px;
+	position: absolute;
+}
+.linea{ 	
+	position: absolute;
+	border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    width: 726px;
+    height: 348px;
+    top: 20px;
+    left: 21px;
+}
+.rectleft{
+	position: absolute;
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	width: 82px;
+	height: 149px;
+	top: 119px;
+    left: 21px;
+}
+.rectright{
+	position: absolute;
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	width: 82px;
+	height: 149px;
+	top: 119px;
+    left: 665px;
+}
+.centro{
+	position: absolute;
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	height: 149px;
+    width: 149px;
+    border-radius: 50%;
+    top: 119px;
+    left: 309px;
+}
+.pelota1{
+	position: absolute;
+	top: 122px;
+    left: 88px;
+}
+.pelota2{
+	position: absolute;
+	top: 60px;
+    left: 400px;
+}
+.pelota3{
+	position: absolute;
+	top: 240px;
+    left: 635px;
+}
